@@ -15,8 +15,6 @@ I am learning full-stack web development to explore different fields. I have lea
 <a href= https://github.com/?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 
-Skills: JAVA / C++ / JAVASCRIPT / HTML5 / CSS3 / TAILWIND CSS / BOOTSTRAP5 / PYTHON 
-
 - 🔭 I’m currently working on My Problem Solving Skills 
 - 🌱 I’m currently learning MERN Stack Web Development 
 - 👯 I’m looking to collaborate on JAVA Projects 
