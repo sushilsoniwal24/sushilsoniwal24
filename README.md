@@ -1,41 +1,31 @@
-### Hi there 👋, my name is Sushil
-#### I am Java & Web Developer
-![I am Java & Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQF1u35RENpdlA/profile-displaybackgroundimage-shrink_350_1400/0/1650363930051?e=1669248000&v=beta&t=tjjR3_oNmVdmiVNwniNk9cH0jcE0S3X-e666p8x3dhM)
+<h1 align="center">Hi 👋, I'm Sushil</h1>
+<h3 align="center">A passionate Java and Web Developer</h3>
 
-I am a 2nd-year engineering student. My major is Electronics and Communication.  I'm consistently trying to improve my problem-solving skills by practicing DSA(Data Structures and Algorithms).
-I am learning full-stack web development to explore different fields. I have learned some basic concepts of HTML5 & CSS3, also I have built some projects using these.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilsoniwal24&label=Profile%20views&color=0e75b6&style=flat" alt="sushilsoniwal24" /> </p>
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+- 🔭 I’m currently working on **My Problem Solving Sills**
 
-- 🔭 I’m currently working on My Problem Solving Skills 
-- 🌱 I’m currently learning MERN Stack Web Development 
-- 👯 I’m looking to collaborate on JAVA Projects 
-- 💬 Ask me about DSA & Java 
-- 📫 How to reach me: Linkedin 
+- 🌱 I’m currently learning **MERN Stack Web Development**
 
+- 👯 I’m looking to collaborate on **Java Projects**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sushilsoniwal24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sushil-soniwal-30/)  
+- 💬 Ask me about **DSA & Java**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **soniwalsushil24@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sushilsoniwal24)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/soniwalsushil24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soniwalsushil24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sushil-soniwal-30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil-soniwal-30" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/soniwalsushil24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soniwalsushil24" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/soniwalsushil24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soniwalsushil24" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsoniwal24)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sushilsoniwal24&show_icons=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilsoniwal24&show_icons=true&locale=en&layout=compact" alt="sushilsoniwal24" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushilsoniwal24)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilsoniwal24&show_icons=true&locale=en" alt="sushilsoniwal24" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/sushilsoniwal24)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sushilsoniwal24)  
-
-![Profile views](https://gpvc.arturio.dev/sushilsoniwal24)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsoniwal24&" alt="sushilsoniwal24" /></p>
